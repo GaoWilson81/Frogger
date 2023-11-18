@@ -52,5 +52,11 @@ the other end of the game map.
 * Open the test java files and click on run (androidTest)
 * ![image](https://github.com/GaoWilson81/Frogger/assets/65750807/a794717b-c5ba-4604-90c9-303932190aab)
 
+# Contributors
+* Morgan Rewis
+* Kathryn Metheny
+* Ryan Yiu
+* Kacy Yeung
+
 
 
