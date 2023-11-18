@@ -49,8 +49,8 @@ the other end of the game map.
 * Run the files in Android Studio
 
 # Unit Test
-* Open the test java files and click on run (green play button)
-* ![image](https://github.com/GaoWilson81/Frogger/assets/65750807/8dc4483c-7328-48b0-b647-121fdd10f4f9)
-* ![image](https://github.com/GaoWilson81/Frogger/assets/65750807/be8abe8d-d656-463d-aded-2de3b1980a9e)
+* Open the test java files and click on run (androidTest)
+* ![image](https://github.com/GaoWilson81/Frogger/assets/65750807/a794717b-c5ba-4604-90c9-303932190aab)
+
 
 
